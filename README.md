@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @akhu95
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data driven decision making
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Data Science
 - 📫 How to reach me ksakash9977@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 akhu95/akhu95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
