@@ -16,14 +16,13 @@ README for Akash K S — Data Science & Analytics Professional
 
 ### 💡 About Me
 Driven by data, guided by logic, and fueled by curiosity.  
-I specialize in **transforming raw data into business intelligence** through automation, analytics, and modern AI.  
-With 5+ years in business finance operations and a strong academic foundation in Data Science (PGP Data Science and Business Analytics– UT Austin ),  
-I help organizations **translate data into strategic actions**.
+I specialize in **transforming raw data into business intelligence** through analytics, and  AI.  
+With 3+ years in AP Analytics using PowerBI, SQL, VBA , overall 5+ years in business finance operations and a strong academic foundation in Data Science (PGP Data Science – UT Austin ), I help organizations **translate data into strategic actions**.
 
 - 🎯 **Expertise:** Business Analytics | Machine Learning | Generative AI with RAG  
-- 📊 **Visualization:** Power BI | Tableau | Excel VBA  
+- 📊 **Visualization:** Power BI | Tableau | Matplotlib | Seaborn  
 - 🧠 **Languages:** Python | SQL | DAX | M Query | VBA  
-- 🏢 **Domain:** BFSI | Financial Analytics | Process Automation  
+- 🏢 **Domain:** Financial Analytics   
 - 🚀 **Goal:** Deliver data-driven systems that learn, predict, and optimize business outcomes.
 
 ---
