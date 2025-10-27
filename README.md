@@ -17,7 +17,7 @@ README for Akash K S — Data Science & Analytics Professional
 ### 💡 About Me
 Driven by data, guided by logic, and fueled by curiosity.  
 I specialize in **transforming raw data into business intelligence** through automation, analytics, and modern AI.  
-With 6+ years in business finance operations and a strong academic foundation in Data Science (PGP – UT Austin | Great Learning),  
+With 5+ years in business finance operations and a strong academic foundation in Data Science (PGP Data Science and Business Analytics– UT Austin ),  
 I help organizations **translate data into strategic actions**.
 
 - 🎯 **Expertise:** Business Analytics | Machine Learning | Generative AI with RAG  
