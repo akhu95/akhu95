@@ -44,50 +44,19 @@ I help organizations **translate data into strategic actions**.
 ### 📂 Featured Projects
 | Project | Description | Tech Stack |
 |:--|:--|:--|
-| **📊 Accounts Payable Dashboard** | End-to-end Power BI solution visualizing invoice aging, vendor trends, and payment metrics. | Power BI | SQL | Excel |
-| **💬 Customer Churn Prediction** | Supervised ML model predicting churn probability using transactional and demographic data. | Python | Scikit-learn | Matplotlib |
-| **⚙️ Finance Automation Script** | Automated daily reporting workflows via Excel VBA and Python integration. | Python | Excel VBA |
-| **🧠 AI Chatbot with RAG** | Custom chatbot for internal analytics knowledge retrieval using LangChain & OpenAI APIs. | Python | LangChain | OpenAI |
+| **📊 Vehicle Insurance Dashboard** | Analyse Vehicle insurance claims to refine claims frequency, policy offerings, improve profitability | Tableau | 
+| **💬 Market Analysis using LLM** | AI-driven system that predicts stock market sentiment, generates weekly event summaries to support investment decision-making | Python | Scikit-learn | LangChain | Keras |
+| **⚙️ Customer Segmentation** | Customer segmentation AllLife Bank’s customers based on their credit scores, financial behavior, and interaction patterns. | Python | Scikit-learn |
+| **🧠 Visal Approval prediction** | Predict visa approval outcomes for foreign workers in the U.S., using data provided by the Department of Labor. | Python | Matplotlib |  Scikit-learn |
 
 > 🔗 Explore more in the [Repositories](https://github.com/AkashKS?tab=repositories).
 
----
 
-### 🧮 Dynamic Portfolio
-<p align="center">
-  <a href="https://github.com/AkashKS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkashKS&repo=YOUR_TOP_PROJECT_1&theme=default" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkashKS&repo=YOUR_TOP_PROJECT_2&theme=default" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/AkashKS">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashKS&layout=compact&theme=default" alt="Top languages" />
-  </a>
-</p>
-
----
-
-### 📈 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AkashKS&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Akash GitHub stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkashKS&theme=default&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-### 🧩 Currently Exploring
-- Advanced Power BI DAX modeling and performance tuning  
-- Generative AI for business reporting and data retrieval  
-- Automating data workflows and governance pipelines  
-
----
 
 ### 🗣 Connect With Me
 <p align="center">
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
-<a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-Me-orange?logo=gmail&logoColor=white" /></a>
+<a href="mailto:ksakash9977@gmail.com"><img src="https://img.shields.io/badge/Email-Me-orange?logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
