@@ -48,7 +48,7 @@ With 3+ years in AP Analytics using PowerBI, SQL, VBA , overall 5+ years in busi
 | **⚙️ Customer Segmentation** | Customer segmentation AllLife Bank’s customers based on their credit scores, financial behavior, and interaction patterns. | Python | Scikit-learn |
 | **🧠 Visal Approval prediction** | Predict visa approval outcomes for foreign workers in the U.S., using data provided by the Department of Labor. | Python | Matplotlib |  Scikit-learn |
 
-> 🔗 Explore more in the [Repositories](https://github.com/AkashKS?tab=repositories).
+> 🔗 Explore more in the [Repositories](https://github.com/akhu95?tab=repositories)
 
 
 
